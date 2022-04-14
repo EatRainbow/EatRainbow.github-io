@@ -2,14 +2,13 @@ title: EatRainbow
 author: Rana
 url: https://github.com/EatRainbow # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
-
+  I used to be an angel but I fell down onto a circuit and started to electrify with my projects :thumbsup:\
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
 twitter:
-    username: abhinav # update or delete this
+    username: EatRainbow # update or delete this
     card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
