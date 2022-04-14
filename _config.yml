@@ -43,7 +43,7 @@ highlighter: rouge
 
 sass:
   style: :compressed
-
+paginate: 5
 plugins:
   - jekyll-feed
   - jekyll-soopr-seo-tag
