@@ -1,6 +1,7 @@
 navbar_entries:
   - title: home
   - url: home
+  
   - title: about
     url: about
 
@@ -56,14 +57,11 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: Github Page
+    url: https://github.com/EatRainbow
 
   - title: twitter
     url: https://twitter.com/abhinav
-
-  - title: github
-    url: https://github.com/abhinavs
 
   - title: feed
     url: feed.xml
