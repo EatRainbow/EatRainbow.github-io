@@ -12,6 +12,28 @@ Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel la
 ##### Sample heading 5
 ###### Sample heading 6
 
+# Here are some examples from github
+
+```python
+# Solve the quadratic equation ax**2 + bx + c = 0
+
+# import complex math module
+import cmath
+
+a = 1
+b = 5
+c = 6
+
+# calculate the discriminant
+d = (b**2) - (4*a*c)
+
+# find two solutions
+sol1 = (-b-cmath.sqrt(d))/(2*a)
+sol2 = (-b+cmath.sqrt(d))/(2*a)
+
+print('The solution are {0} and {1}'.format(sol1,sol2))
+```
+
 Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
 
 ## Lists

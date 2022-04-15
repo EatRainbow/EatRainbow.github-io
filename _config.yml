@@ -2,7 +2,7 @@ title: EatRainbow
 author: Rana
 url: https://github.com/EatRainbow # root address of the site
 description: > # description of the site (multiple lines allowed)
-  I used to be an angel but I fell down onto a circuit and started to electrify with my projects :thumbsup:\
+  I used to be an angel but I fell down onto a circuit and started to electrify with my projects
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
@@ -46,3 +46,4 @@ paginate: 5
 plugins:
   - jekyll-feed
   - jekyll-soopr-seo-tag
+  - jekyll-paginator
