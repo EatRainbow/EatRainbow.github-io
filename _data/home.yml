@@ -1,11 +1,14 @@
 navbar_entries:
-  - title: home
+  - title: Home
   - url: home
-  
-  - title: about
+
+  - title: About
     url: about
 
-  - title: blog
+  - title: Resources
+  - url: Resources
+  
+  - title: Blog
     url: blog
 
   - title: github
